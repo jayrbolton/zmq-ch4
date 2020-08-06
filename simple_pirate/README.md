@@ -17,4 +17,4 @@ The client module from `lazy_pirate` is reused here.
 * [worker](./worker.py)
 * [run](./run.py) initialization and execution of the modules
 
-Run from root with `PYTHONPATH=. python simple_pirate/run.py`
+Run from root with `poetry run python -m simple_pirate.run`
